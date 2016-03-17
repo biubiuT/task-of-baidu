@@ -1,0 +1,137 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+#top{
+	height: 50px;
+	width: 100%;
+	background-color: #3c3c3c;
+}
+#top img{
+	margin-top: 5px;
+	margin-left: 30px;
+}
+#top ul{
+	float: right;
+}
+#top ul li{
+	float: left;
+	height: 50px;
+	line-height: 50px;
+	width: 90px;
+}
+#top ul li a{
+	color: #fff;
+	font-size: 12px;
+}
+
+#top ul li a:hover{
+	color:#9d9d9d;
+}
+#body1{
+	width: 100%;
+	background-color: #999;
+	float: left;
+}
+h3{
+	line-height: 30px;
+}
+h4{
+	color:#999;
+	line-height: 30px;
+}
+
+article span{
+	color:#999;
+	font-size: 12px;
+	line-height: 24px;
+}
+p{
+	font-size: 15px;
+	line-height: 28px;
+}
+article{
+	padding: 20px 20px;
+	margin: 20px;
+	background-color: #fff;
+	height: 100%;
+}
+article ul li{
+	list-style: none;
+}
+.goodimg{
+	border: 1px solid #bebebe;
+	height: 100px;
+	width: 200px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+dt{
+	margin-top: 10px;
+	text-align: center;
+}
+dd{
+	margin-top: 10px;
+	text-align: center;
+}
+ol{
+	margin-left: 30px;
+	line-height: 26px;
+}
+article table{
+	width: 100%;
+	text-align: left;
+	font-size: 14px;
+	text-indent: 5px;
+}
+tr{
+	height: 25px;
+}
+#body1_1{
+	padding: 30px 20px;
+	margin: 20px;
+	background-color: #fff;
+	height: 100%;
+}
+#body1_1 h4{
+	color:#000;
+	margin-left: 10px;
+}
+#shuxian{
+	height: 25px;
+	line-height: 25px;
+	float: left;
+	display: inline-block;
+	border: 2px solid #999;
+}
+.one{
+	text-align: right;
+}
+.remind{
+	color:#999;
+}
+#body1_1 table{
+	margin-left: 200px;
+	width: 1000px;
+	font-size: 14px;
+}
+button{
+	margin: 10px 5%;
+	width: 90%;
+	height: 40px;
+	font-size: 18px;
+	line-height: 20px;
+	background-color: #2828ff;
+	color: #fff;
+	border-radius: 10px;
+}
+footer{
+	height: 50px;
+	background-color: #000;
+	color: #fff;
+	font-size: 14px;
+	line-height: 50px;
+	width: 100%;
+	text-align: center;
+}
