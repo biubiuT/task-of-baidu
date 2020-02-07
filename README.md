@@ -1,2 +1,1 @@
-# task-of-baidu
-task
+hello world.
